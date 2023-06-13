@@ -137,10 +137,13 @@ Must send a request to delete posts request
 
 ## Add response looks like
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/hi-Kartik2004/ieee-api/assets/111000515/a6581789-e98b-42a0-abc9-d7d86a63acfc)
 
 ## Fetch response looks like
+![image](https://github.com/hi-Kartik2004/ieee-api/assets/111000515/04697998-fab9-47e7-95d5-1caed3a31f54)
 
 ## Update response looks like
+![image](https://github.com/hi-Kartik2004/ieee-api/assets/111000515/4ba305e9-5dfa-4e72-8f72-997500bb22fd)
 
 ## Delete response looks like
+![image](https://github.com/hi-Kartik2004/ieee-api/assets/111000515/28bd434b-ad74-4888-8094-68cd185dc832)

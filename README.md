@@ -12,7 +12,7 @@ This api will be used in the official IEEE-Website for interaction with the fron
 https://ieee-uvce.000webhostapp.com
 ```
 
-## Interaction Points for adding event posts
+## Interaction Points for manipulating event posts
 
 ```bash
   ?add=1

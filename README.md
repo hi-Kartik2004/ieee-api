@@ -1,9 +1,9 @@
 ## IEEE-UVCE API
 
-This api will be used in the official IEEE-Website for interaction with the frontend code.
+This api will be used in the official IEEE-Website for interaction with the frontend, idk when that will be build.
 
 ```bash
-  Contact Admin for the API_KEY
+  sd-team is the API_KEY
 ```
 
 ## The base URL is
